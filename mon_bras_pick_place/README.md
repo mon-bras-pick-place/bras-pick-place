@@ -4,11 +4,8 @@ ROS 2 Jazzy Jalisco project simulating a 6-DOF robotic arm (uFactory Lite6) perf
 
 ## 🎥 Demo
 Watch the robot arm perform a pick-and-place operation:
-file:///C:/Users/WINDOWS/Pictures/RECORD.mp4
-<video width="640" height="480" controls>
-  <source src="demo/RECORD.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Pick and Place Demo](demo/RECORD.gif)
 
 The robot arm picks up a red box from a table and places it on a green target zone.
 
